@@ -1,2 +1,2 @@
 # Sistem-Pakar-Cek-Ginjal-Foward-Chaining
-Ini merupakan tugas final project saya untuk matakuliah Sistem Pakar dimana Sistem Pakar yang saya buat adalah untuk mendeteksi Jenis penyakit Ginjal. Metode yang digunakan dalam sistem pakar ini adalah fowars chaining dengan hasil persentase tiap jenis penyakit untuk mengatasi error yang disebabkan oleh tidak ditemukannnya solusi untuk gejala yang diinputkan user. 
+Ini merupakan tugas final project saya untuk matakuliah Sistem Pakar dimana Sistem Pakar yang saya buat adalah untuk mendeteksi Jenis penyakit Ginjal. Metode yang digunakan dalam sistem pakar ini adalah foward chaining dengan hasil persentase tiap jenis penyakit untuk mengatasi error yang disebabkan oleh tidak ditemukannnya solusi untuk gejala yang diinputkan user. 
