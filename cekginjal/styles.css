@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.kiri {
+    margin: 1%;
+    margin-top: auto;
+    width: 15%;
+    height: auto;
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+    
+}
+
+.kanan {
+    margin: 1%;
+    margin-top: auto;
+    width: 75%;
+    height: auto;
+    float: left;
+}
+
+.logo {
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    align-content: center;
+}
+
+
+.teks {
+    font-size: medium;
+}
+
+#tess {
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+.isi {
+    text-align: center;
+    padding: 10px;
+    color: #4183D7;
+}
+.isi:hover {
+    background-color: rgb(35, 87, 155);
+    color: #ffff;
+}
+
+.sidebar-heading {
+    color: #ffff;
+    background-color: #4183D7;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.nav-link {
+    text-align: left;
+}
+
+.isi:hover a {
+    background-color: rgb(35, 87, 155);
+    color: #ffff;
+}
+
+.content {
+    padding: 20px 80px;
+    text-align: justify;
+}
+

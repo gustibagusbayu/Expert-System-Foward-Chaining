@@ -1,0 +1,115 @@
+.btn-primary {
+  background: #008cc1;
+  border: 0px;
+  padding: 15px 41px 15px 41px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  background: #047eaa;
+  border: 0px;
+}
+
+.btn-secondary {
+  background: none;
+  border: 1px solid #bcd0e5;
+  padding: 15px 41px 15px 41px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #173a56;
+}
+
+
+.btn-secondary:hover {
+  background: none;
+  border: 1px solid #047eaa;
+  color: #173a56;
+}
+
+.heroBWA {
+  padding-top: 70px;
+  padding-bottom: 200px;
+}
+
+
+.heroBWA h1 {
+  font-family: "Poppins";
+  font-weight: 700;
+  color: #2f281e;
+}
+
+.heroBWA p {
+  font-family: "Poppins";
+  font-weight: 400;
+  color: #2f281e;
+}
+
+.test {
+  padding-top: 65px;
+}
+
+.test h2 {
+  font-family: "Poppins";
+  font-weight: 400;
+  color: #2f281e;
+}
+
+.test p {
+  font-family: "Poppins";
+  font-weight: 400;
+  color: #2f281e;
+}
+
+.navbar {
+  margin-top: 15px;
+}
+
+.card {
+  width: max-content;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 25px;
+  border: 1px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+}
+
+.card-title h1 {
+  font-family: "Poppins";
+  font-weight: 700;
+  color: #2f281e;
+}
+
+.col label {
+  font-family: "Poppins";
+  font-weight: 400;
+  color: #2f281e;
+}
+
+.registerbtn {
+  background: #008cc1;
+  border: 0px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.papan {
+  margin-top: 30px;
+}
+
+.card-title{
+  font-weight: bolder;
+}
+
+@media only screen and (max-width: 768px) {
+  .btn-primary,
+  .btn-secondary, 
+  .card {
+    margin-top: 10px;
+    margin-left: 0 !important;
+  }
+}
